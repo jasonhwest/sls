@@ -1,0 +1,6 @@
+
+div#branding h1{display:none}
+div#branding img{border:none;position:absolute;top:0;left:0}
+div#branding{position:relative}
+div#access{display:none}
+div#site-description{width:100%;text-align:center;margin-top:213px}
